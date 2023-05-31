@@ -1,0 +1,30 @@
+[
+  {
+    "apparelType": "Fullsleves",
+    "code": "SF1234",
+    "size": "M",
+    "quantity": 10,
+    "price": 999
+  },
+  {
+    "apparelType": "kurtas",
+    "code": "SMS1234",
+    "size": "M",
+    "quantity": 10,
+    "price": 999
+  },
+  {
+    "apparelType": "jeans",
+    "code": "SRS1234",
+    "size": "M",
+    "quantity": 10,
+    "price": 999
+  },
+  {
+    "apparelType": "t-shirts",
+    "code": "STMS1234",
+    "size": "L",
+    "quantity": 5,
+    "price": 5999
+  }
+]
